@@ -43,12 +43,6 @@
 - 💡 Internship opportunities in **Web Development, Full Stack Development, Front-end Development, or Software Engineering**  
 - 🌍 Real-world projects where I can **contribute, learn, and grow**  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical&hide_border=true)
 
 ---
 
